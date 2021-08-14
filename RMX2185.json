@@ -1,0 +1,13 @@
+{
+"response": [
+{
+ "datetime": "1628953221",
+ "filename": "lineage-18.1-20210814-UNOFFICIAL-RMX2185.zip",
+ "id": "59f9702717a42eecbf43c48d6b9d4c904052d856",
+ "romtype":"STABLE",
+ "size": 624004375,
+ "url": "https://github.com/techyminati/OTA/releases/download/1.0/lineage-18.1-20210814-UNOFFICIAL-RMX2185.zip",
+ "version": "LineageOS-18.1-RMX2185"
+}
+]
+}
