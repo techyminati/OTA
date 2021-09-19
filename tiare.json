@@ -1,0 +1,13 @@
+{
+"response": [
+{
+ "datetime": "1631889906",
+ "filename": "lineage-18.1-20210917-UNOFFICIAL-tiare.zip",
+ "id": "a5cf8839b37ab217fb645aa9a2183cc8daad77eb",
+ "romtype":"STABLE",
+ "size": 725730000,
+ "url": "https://fileload.minati.workers.dev/tiare/lineage-18.1-20210917-UNOFFICIAL-tiare.zip",
+ "version": "18.1-OTA-20210917"
+}
+]
+}
