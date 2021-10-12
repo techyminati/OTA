@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1631889905",
+ "datetime": "1633861500",
  "filename": "lineage-18.1-20210917-UNOFFICIAL-tiare.zip",
- "id": "a5cf8839b37ab217fb645aa9a2183cc8daad77eb",
+ "id": "730c6b6904272b50e47d2090a6af721a81ac584f",
  "romtype":"STABLE",
- "size": 725730000,
- "url": "https://fileload.minati.workers.dev/tiare/lineage-18.1-20210917-UNOFFICIAL-tiare.zip",
- "version": "18.1-OTA-20210917"
+ "size": 772588478,
+ "url": "https://github.com/techyminati/releases/releases/download/1.0.3-tiare/lineage-18.1-20211012-UNOFFICIAL-tiare.zip",
+ "version": "18.1-OTA-20211012"
 }
 ]
 }
