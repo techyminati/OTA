@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1639554101",
- "filename": "lineage-18.1-20211215-UNOFFICIAL-tiare.zip",
- "id": "9fa32d11c5dd236c819c3d580db8632b",
+ "datetime": "1641246236",
+ "filename": "lineage-18.1-20220103-UNOFFICIAL-tiare.zip",
+ "id": "ec9dbd3b179bf2ba543705cfea8de601d014f49a",
  "romtype":"STABLE",
- "size": 772621492,
- "url": "https://github.com/techyminati/releases/releases/download/1.0.5-tiare/lineage-18.1-20211215-UNOFFICIAL-tiare.zip",
- "version": "18.1-OTA-20211215"
+ "size": 773286885,
+ "url": "https://github.com/techyminati/releases/releases/download/1.0.6-tiare/lineage-18.1-20220103-UNOFFICIAL-tiare.zip",
+ "version": "18.1-OTA-20220103"
 }
 ]
 }
